@@ -1,0 +1,4 @@
+baseURL = 'https://aegitha1os99.github.io/'
+locale = 'en-us'
+title = "Aegitha1os's Magazine"
+theme = 'ananke'
